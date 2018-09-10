@@ -5,5 +5,7 @@ public class zad_dom1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("oraz");
+        System.out.println("tworzenia repozytorium");
     }
 }
