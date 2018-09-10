@@ -7,5 +7,6 @@ public class zad_dom1 {
         System.out.println("commitowania");
         System.out.println("oraz");
         System.out.println("tworzenia repozytorium");
+        System.out.println(".");
     }
 }
